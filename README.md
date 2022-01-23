@@ -1,2 +1,2 @@
-# School_District_Analysis_Challange
+# School_District_Analysis_Challenge
 Module 4 challenge
