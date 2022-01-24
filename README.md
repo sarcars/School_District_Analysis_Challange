@@ -9,7 +9,7 @@ In this module, we looked at data for a school district showing some information
 
 - District Summary
   The district summary is a collection of data from all schools in the district.  This summary was affected only minimally by the change of less than half a percent in some areas.  
-  !(/Resources/district_summary.png)
+  ![District Summary](/Resources/district_summary.png)
 
     
 - School Summary
@@ -20,22 +20,22 @@ In this module, we looked at data for a school district showing some information
   
 - Performance Relative to other schools
   The small changes to Thomas High School's math, reading, and overall score percentages did not change Thomas High School's performance relative to other schools.  Both before and after the replacement, Thomas High School was ranked second based on `Overall Passing Percentage` 
-  /Resources/Top5.png
+  ![Top 5 Performing Schools]/Resources/Top5.png
 
 - Replacing Thomas High School ninth graders' math and reading scores 
   Math and reading scores for ninth graders at Thomas High School were replaced in the data with `NaN` and scores were recalculated.  
   - Math and reading scores by grade
-    /Resources/scores_by_grade.png
+    ![Scores By Grade]/Resources/scores_by_grade.png
 
 Like with the district and school summaries the changes made did not change the scores of any of the district groupings (school spending, size, or type) 
   - Scores by school spending
-    /Resources/scores_by_spending.png
+    ![Scores By Spending]/Resources/scores_by_spending.png
     
   - Scores by school size
-    /Resources/scores_by_size.png
+   ![Scores By School Size] /Resources/scores_by_size.png
 
   - Scores by school type
-    /Resources/scores_by_type.png
+    ![Scores By School Type]/Resources/scores_by_type.png
 
 
 ## Summary 
