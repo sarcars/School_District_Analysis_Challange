@@ -9,15 +9,14 @@ In this module, we looked at data for a school district showing some information
 
 - District Summary
   The district summary is a collection of data from all schools in the district.  This summary was affected only minimally by the change of less than half a percent in some areas.  
-  (/Resources/district_summary.png)
-  \Resources\district_summary.png
-  (\Resources\district_summary.png)
+  !(/Resources/district_summary.png)
+
     
 - School Summary
   Likewise, the school summary for Thomas High School was only affected minimally (differences can only be seen in fractions of 1 percent)
-  /Resources/School_Summary_Comparison.png
+  !(/Resources/School_Summary_Comparison.png)
   
-  https://github.com/sarcars/School_District_Analysis_Challenge/blob/main/Resources/School_Summary_Comparison.png
+ 
   
 - Performance Relative to other schools
   The small changes to Thomas High School's math, reading, and overall score percentages did not change Thomas High School's performance relative to other schools.  Both before and after the replacement, Thomas High School was ranked second based on `Overall Passing Percentage` 
