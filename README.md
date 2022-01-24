@@ -14,7 +14,7 @@ In this module, we looked at data for a school district showing some information
     
 - School Summary
   Likewise, the school summary for Thomas High School was only affected minimally (differences can only be seen in fractions of 1 percent)
-  !(/Resources/School_Summary_Comparison.png)
+  ![School Summary](/Resources/School_Summary_Comparison.png)
   
  
   
