@@ -36,7 +36,7 @@ Like with the district and school summaries the changes made did not change the 
     ![Scores By Spending](/Resources/scores_by_spending.png)
     
   - Scores by school size
-   ![Scores By School Size] (/Resources/scores_by_size.png)
+   ![Scores By School Size](/Resources/scores_by_size.png)
 
   - Scores by school type
     ![Scores By School Type](/Resources/scores_by_type.png)
