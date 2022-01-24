@@ -10,6 +10,7 @@ In this module, we looked at data for a school district showing some information
 - District Summary
   The district summary is a collection of data from all schools in the district.  This summary was affected only minimally by the change of less than half a percent in some areas.  
   /../Resources/district_summary.png
+  Resources/district_summary.png
   
 - School Summary
   Likewise, the school summary for Thomas High School was only affected minimally (differences can only be seen in fractions of 1 percent)
